@@ -1,4 +1,5 @@
 # MD Simulations Resources
+A repository of helpful resources for Molecular Dynamics Simulations. 
 
 ### Review Articles
 1. [Molecular dynamics simulation for all](https://www.cell.com/neuron/fulltext/S0896-6273(18)30684-6)
